@@ -1,1 +1,66 @@
 git init
+ls -a
+git init
+la -la
+git status
+ls
+dir
+git status
+  715  git add testing.py
+  716  git status
+  717  git commit -m "added testing files"
+  718  git config --global user.email "palaboinamanasaveena123@gmail.com"
+  719  git commit -m "added testing files"
+  720  git config --list
+  721  git config --global user.email "palaboinamanasaveena123@gmail.com"
+  722  git config --local --list
+  723  git commit -m "added testing files"
+  724  git add.
+  725  git add .
+  726  git commit -m "added testing files"
+  727  git config --global user.name "Manasi"
+  728  git config --global user.name
+  729  git commit -m "added testing files"
+  730  git status
+  731  rm testing.py
+  732  ls
+  733  git status
+  734  git restore testing.py
+  735  git status
+  736  git add testing.py
+  737  git status
+  738  git commit -m "added testing files"
+  739  git config --global user.email "palaboinamanasaveena123@gmail.com"
+  740  git commit -m "added testing files"
+  741  git config --global user.email "manasa"
+  742  git commit -m "added testing files"
+  743  git config --global user.email "pmanasaveena99@gmail.com"
+  744  git commit -m "added testing files"
+  745  git add testing,py
+  746  git init
+  747  git add testing.py
+  748  git status
+  749  git add git_commands.py
+  750  git status
+  751  git add git_commands.txt
+  752  git commit -m "git commands"
+  753  git remote add origin https://github.com/manasaveenapalaboina/GITHUB-FOR-DEVOPS-WORKSHOP.git
+  754  git remote -v
+  755  git remote set url origin https://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@github.com/manasaveenapalaboina/GITHUB-FOR-DEVOPS-WORKSHOP.git
+  756  git push origin master
+  757  cd Documents/work/Manasaveena
+  758  pwd
+  759  cd Documents/work/Manasaveena
+  760  cd "C:\Users\Manasi\Documents\work\Manasi"
+  761  cd ~
+  762  dir
+  763  cd Documents
+  764  cd /mnt/c/Users/91991/OneDrive/Documents
+  765  pwd
+  766  mkdir -p work/Manasi
+  767  cd work/Manasi
+  768  pwd
+  769  git clone https://github.com/manasaveenapalaboina/github-for-devops-workshp.git
+  770  ls
+  771  cd github-for-devops-workshp
+   ls
